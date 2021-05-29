@@ -1,0 +1,67 @@
+
+/* Advanced Page */
+.header{
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+.header_text{
+    color:#f25278;
+    padding: 1px;
+}
+
+h1{
+    font-size: 24px;
+     font-weight: 700;
+   
+    color: #f25278;
+    font-weight: normal;
+   
+}
+
+p{
+    font-size: 14px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.container1{
+    padding-bottom: 90px;
+    border: solid 1px #f2f2f2;
+    
+  
+}
+
+.advInput{
+    padding: 10px 30px;
+    
+}
+
+label {
+    display: inline-block;
+    width:200px;
+    font-size: 16px;
+}
+
+.advInput>input{
+    width: 30%;
+    padding: 8px 8px;
+    border: solid 1px #d3d3d3;
+    
+}
+
+.btnContainer{
+    width: 69%;
+}
+
+.advButton{
+    color: black;
+    background-color: #f25278;
+    font-size: 13.5px;
+    padding: 10px 50px;
+    display: inline-block;
+    float: right;
+}
+.personlised{
+    padding: 150px;
+}
